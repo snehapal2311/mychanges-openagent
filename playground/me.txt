@@ -1,0 +1,3 @@
+Name: Sneha Pal
+Skills:Html,css,javascript,reactjs
+email: palsneha462@gmail.com
